@@ -15,7 +15,7 @@
 <body>
   <div id="app">
     <div class="main-wrapper">
-      <div class="navbar-bg"></div>
+      <div class="navbar-bg" style="background-color: #6868b5;"></div>
         {{-- Navbar --}}
         @include('partials.nav')
 
